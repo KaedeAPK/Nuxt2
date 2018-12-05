@@ -2,10 +2,6 @@
 #### Run setup script
 
 ```
-$ git clone https://github.com/nyanko-kota/CodeGO
-```
-
-```
 $ ./setup.sh
 ```
 
